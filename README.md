@@ -1,1 +1,1 @@
-# UpGGrAIEd
+# CoGGrow AI
