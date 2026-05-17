@@ -1,1 +1,1 @@
-# CoGGrow AI
+# LearnWtSKAI
